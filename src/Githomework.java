@@ -6,6 +6,7 @@ public class Githomework {
         System.out.println("i like git");
         System.out.println("i like git");
 
+        System.out.println("i like git");
 
     }
 
